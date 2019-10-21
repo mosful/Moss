@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-21T10:03:12.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="3loK2HLWRSu2NAjKKIj9" version="12.1.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-10-21T10:03:48.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="sForvZF1Cmf5CCy4AV9t" version="12.1.3" type="github" pages="3">
   <diagram id="g2j36lPshuta8L843yOW" name="第1頁">
-    <mxGraphModel dx="1562" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1280" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -626,6 +626,11 @@
             <mxPoint x="546" as="offset"/>
           </mxGeometry>
         </mxCell>
+        <mxCell id="BSTjJpsPTdA0JXhXpzDs-77" value="Tag" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#3D8BCD;fillColor=#3D8BCD;fontSize=14;fontStyle=1;align=center;whiteSpace=wrap;resizeHeight=1;fontColor=#FFFFFF;" vertex="1" parent="BSTjJpsPTdA0JXhXpzDs-4">
+          <mxGeometry width="120" height="40" relative="1" as="geometry">
+            <mxPoint x="770" as="offset"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BSTjJpsPTdA0JXhXpzDs-13" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;whiteSpace=wrap;resizeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="1373" width="930" height="40" as="geometry">
             <mxPoint x="98.5" y="279.5" as="offset"/>
@@ -651,7 +656,7 @@
         </mxCell>
         <mxCell id="BSTjJpsPTdA0JXhXpzDs-18" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox;fillColor=#ffffff;strokeColor=#666666;" vertex="1" parent="BSTjJpsPTdA0JXhXpzDs-13">
           <mxGeometry y="0.5" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="822" y="-10" as="offset"/>
+            <mxPoint x="890" y="-10" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="BSTjJpsPTdA0JXhXpzDs-19" value="永續" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="BSTjJpsPTdA0JXhXpzDs-13">
@@ -698,7 +703,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BSTjJpsPTdA0JXhXpzDs-28" value="綠能" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="BSTjJpsPTdA0JXhXpzDs-21">
-          <mxGeometry width="150" height="40" relative="1" as="geometry">
+          <mxGeometry width="130" height="40" relative="1" as="geometry">
             <mxPoint x="681.5" y="1" as="offset"/>
           </mxGeometry>
         </mxCell>
