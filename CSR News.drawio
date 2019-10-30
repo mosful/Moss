@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-30T03:56:44.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="YSHoZgRIQ7PqDT5Jf4X0" version="12.1.8" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-10-30T03:57:55.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="Y0Lok-jcgipbqqu_BU0P" version="12.1.8" type="github" pages="3">
   <diagram id="KCnl8cFiq7WRn9clfYzs" name="01.基本資料維護">
     <mxGraphModel dx="1250" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1087,7 +1087,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g2j36lPshuta8L843yOW" name="02.文章分類">
-    <mxGraphModel dx="1786" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1250" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -1168,7 +1168,7 @@
             <mxPoint x="169" y="-1.5" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V9TRnXoOqbhezM_kPiNG-33" value="johnny81" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="V9TRnXoOqbhezM_kPiNG-29" vertex="1">
+        <mxCell id="V9TRnXoOqbhezM_kPiNG-33" value="&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;道瓊永續指數公布：2019台灣入選企業達23家！&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="V9TRnXoOqbhezM_kPiNG-29" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="380" as="offset"/>
           </mxGeometry>
@@ -1226,7 +1226,7 @@
             <mxPoint x="169" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V9TRnXoOqbhezM_kPiNG-40" value="missmary" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="V9TRnXoOqbhezM_kPiNG-36" vertex="1">
+        <mxCell id="V9TRnXoOqbhezM_kPiNG-40" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;全台首張綠能售電業執照發出 電業自由化新一步&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="V9TRnXoOqbhezM_kPiNG-36" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="380" as="offset"/>
           </mxGeometry>
@@ -1259,7 +1259,7 @@
             <mxPoint x="169" y="-1.5" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V9TRnXoOqbhezM_kPiNG-47" value="jijames" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="V9TRnXoOqbhezM_kPiNG-43" vertex="1">
+        <mxCell id="V9TRnXoOqbhezM_kPiNG-47" value="GRI 303: Eau et effluents 2018 (Water a" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="V9TRnXoOqbhezM_kPiNG-43" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="380" as="offset"/>
           </mxGeometry>
@@ -1292,7 +1292,7 @@
             <mxPoint x="169" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V9TRnXoOqbhezM_kPiNG-156" value="missmary" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="V9TRnXoOqbhezM_kPiNG-152" vertex="1">
+        <mxCell id="V9TRnXoOqbhezM_kPiNG-156" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;全台首張綠能售電業執照發出 電業自由化新一步&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="V9TRnXoOqbhezM_kPiNG-152" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="380" as="offset"/>
           </mxGeometry>
@@ -1422,7 +1422,7 @@
             <mxPoint x="169" y="-1.5" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LEWghaiAQz3cji2lI0Cb-30" value="johnny81" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="LEWghaiAQz3cji2lI0Cb-26" vertex="1">
+        <mxCell id="LEWghaiAQz3cji2lI0Cb-30" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;道瓊永續指數公布：2019台灣入選企業達23家！&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="LEWghaiAQz3cji2lI0Cb-26" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="380" as="offset"/>
           </mxGeometry>
@@ -1460,7 +1460,7 @@
             <mxPoint x="169" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LEWghaiAQz3cji2lI0Cb-38" value="missmary" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="LEWghaiAQz3cji2lI0Cb-34" vertex="1">
+        <mxCell id="LEWghaiAQz3cji2lI0Cb-38" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;全台首張綠能售電業執照發出 電業自由化新一步&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="LEWghaiAQz3cji2lI0Cb-34" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="380" as="offset"/>
           </mxGeometry>
@@ -1498,7 +1498,7 @@
             <mxPoint x="169" y="-1.5" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LEWghaiAQz3cji2lI0Cb-45" value="jijames" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="LEWghaiAQz3cji2lI0Cb-41" vertex="1">
+        <mxCell id="LEWghaiAQz3cji2lI0Cb-45" value="GRI 303: Eau et effluents 2018 (Water a" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="LEWghaiAQz3cji2lI0Cb-41" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="380" as="offset"/>
           </mxGeometry>
@@ -1536,7 +1536,7 @@
             <mxPoint x="169" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LEWghaiAQz3cji2lI0Cb-52" value="missmary" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="LEWghaiAQz3cji2lI0Cb-48" vertex="1">
+        <mxCell id="LEWghaiAQz3cji2lI0Cb-52" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;全台首張綠能售電業執照發出 電業自由化新一步&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="LEWghaiAQz3cji2lI0Cb-48" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="380" as="offset"/>
           </mxGeometry>
@@ -1610,7 +1610,7 @@
             <mxPoint x="169" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LEWghaiAQz3cji2lI0Cb-71" value="missmary" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="LEWghaiAQz3cji2lI0Cb-67" vertex="1">
+        <mxCell id="LEWghaiAQz3cji2lI0Cb-71" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;竹海新生，擁抱新竹縣的綠色海岸&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="LEWghaiAQz3cji2lI0Cb-67" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="380" as="offset"/>
           </mxGeometry>
@@ -1717,7 +1717,7 @@
             <mxPoint x="169" y="-1.5" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSTjJpsPTdA0JXhXpzDs-17" value="johnny81" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="BSTjJpsPTdA0JXhXpzDs-13" vertex="1">
+        <mxCell id="BSTjJpsPTdA0JXhXpzDs-17" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;道瓊永續指數公布：2019台灣入選企業達23家！&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="BSTjJpsPTdA0JXhXpzDs-13" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="380" as="offset"/>
           </mxGeometry>
@@ -1760,7 +1760,7 @@
             <mxPoint x="169" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSTjJpsPTdA0JXhXpzDs-25" value="missmary" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="BSTjJpsPTdA0JXhXpzDs-21" vertex="1">
+        <mxCell id="BSTjJpsPTdA0JXhXpzDs-25" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;全台首張綠能售電業執照發出 電業自由化新一步&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="BSTjJpsPTdA0JXhXpzDs-21" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="380" as="offset"/>
           </mxGeometry>
@@ -1803,7 +1803,7 @@
             <mxPoint x="169" y="-1.5" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSTjJpsPTdA0JXhXpzDs-33" value="jijames" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="BSTjJpsPTdA0JXhXpzDs-29" vertex="1">
+        <mxCell id="BSTjJpsPTdA0JXhXpzDs-33" value="GRI 303: Eau et effluents 2018 (Water a" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="BSTjJpsPTdA0JXhXpzDs-29" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="380" as="offset"/>
           </mxGeometry>
@@ -1846,7 +1846,7 @@
             <mxPoint x="169" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSTjJpsPTdA0JXhXpzDs-41" value="missmary" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="BSTjJpsPTdA0JXhXpzDs-37" vertex="1">
+        <mxCell id="BSTjJpsPTdA0JXhXpzDs-41" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;全台首張綠能售電業執照發出 電業自由化新一步&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="BSTjJpsPTdA0JXhXpzDs-37" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="380" as="offset"/>
           </mxGeometry>
@@ -1925,7 +1925,7 @@
             <mxPoint x="169" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSTjJpsPTdA0JXhXpzDs-61" value="missmary" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="BSTjJpsPTdA0JXhXpzDs-57" vertex="1">
+        <mxCell id="BSTjJpsPTdA0JXhXpzDs-61" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;竹海新生，擁抱新竹縣的綠色海岸&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="BSTjJpsPTdA0JXhXpzDs-57" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="380" as="offset"/>
           </mxGeometry>
@@ -1987,7 +1987,7 @@
             <mxPoint x="169" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V9TRnXoOqbhezM_kPiNG-91" value="missmary" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="V9TRnXoOqbhezM_kPiNG-87" vertex="1">
+        <mxCell id="V9TRnXoOqbhezM_kPiNG-91" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 12px ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;竹海新生，擁抱新竹縣的綠色海岸&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="V9TRnXoOqbhezM_kPiNG-87" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="380" as="offset"/>
           </mxGeometry>
