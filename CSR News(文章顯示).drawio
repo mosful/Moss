@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-25T03:31:17.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="D55MH_QgO1bUdvcoqHZo" version="12.1.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-30T02:59:29.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="2bOktp-1gMobBJTBDrvo" version="12.1.8" type="github" pages="1">
   <diagram id="eBlecfZr6XOX-qa9LUrN" name="文章顯示">
-    <mxGraphModel dx="1088" dy="638" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="2176" dy="1200" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="hgfb5qGVDZfVHI5IO2TZ-0"/>
         <mxCell id="hgfb5qGVDZfVHI5IO2TZ-1" parent="hgfb5qGVDZfVHI5IO2TZ-0"/>
@@ -216,40 +216,40 @@
         <mxCell id="uWTkZ_OqShFdQINvPs2V-9" value="Log Out" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#FFFFFF;whiteSpace=wrap;fontSize=22;" parent="hgfb5qGVDZfVHI5IO2TZ-1" vertex="1">
           <mxGeometry x="2431.375" y="36.5" width="100.625" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="th87YpJo-jOqk0brmeSe-0" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;fillColor=#ffffff;strokeColor=#dddddd;whiteSpace=wrap;fontSize=14;fontColor=#FFFFFF;align=left;" vertex="1" parent="hgfb5qGVDZfVHI5IO2TZ-1">
+        <mxCell id="th87YpJo-jOqk0brmeSe-0" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;fillColor=#ffffff;strokeColor=#dddddd;whiteSpace=wrap;fontSize=14;fontColor=#FFFFFF;align=left;" parent="hgfb5qGVDZfVHI5IO2TZ-1" vertex="1">
           <mxGeometry x="470" y="1376" width="330" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="th87YpJo-jOqk0brmeSe-1" value="&lt;&lt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;fontColor=#3D8BCD;whiteSpace=wrap;" vertex="1" parent="th87YpJo-jOqk0brmeSe-0">
+        <mxCell id="th87YpJo-jOqk0brmeSe-1" value="&lt;&lt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;fontColor=#3D8BCD;whiteSpace=wrap;" parent="th87YpJo-jOqk0brmeSe-0" vertex="1">
           <mxGeometry width="30" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="th87YpJo-jOqk0brmeSe-2" value="1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;fontColor=#3D8BCD;whiteSpace=wrap;" vertex="1" parent="th87YpJo-jOqk0brmeSe-0">
+        <mxCell id="th87YpJo-jOqk0brmeSe-2" value="1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;fontColor=#3D8BCD;whiteSpace=wrap;" parent="th87YpJo-jOqk0brmeSe-0" vertex="1">
           <mxGeometry x="30" width="30" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="th87YpJo-jOqk0brmeSe-3" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;fontColor=#3D8BCD;whiteSpace=wrap;" vertex="1" parent="th87YpJo-jOqk0brmeSe-0">
+        <mxCell id="th87YpJo-jOqk0brmeSe-3" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;fontColor=#3D8BCD;whiteSpace=wrap;" parent="th87YpJo-jOqk0brmeSe-0" vertex="1">
           <mxGeometry x="90" width="30" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="th87YpJo-jOqk0brmeSe-4" value="4" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;fontColor=#3D8BCD;whiteSpace=wrap;" vertex="1" parent="th87YpJo-jOqk0brmeSe-0">
+        <mxCell id="th87YpJo-jOqk0brmeSe-4" value="4" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;fontColor=#3D8BCD;whiteSpace=wrap;" parent="th87YpJo-jOqk0brmeSe-0" vertex="1">
           <mxGeometry x="120" width="30" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="th87YpJo-jOqk0brmeSe-5" value="5" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;fontColor=#3D8BCD;whiteSpace=wrap;" vertex="1" parent="th87YpJo-jOqk0brmeSe-0">
+        <mxCell id="th87YpJo-jOqk0brmeSe-5" value="5" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;fontColor=#3D8BCD;whiteSpace=wrap;" parent="th87YpJo-jOqk0brmeSe-0" vertex="1">
           <mxGeometry x="150" width="30" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="th87YpJo-jOqk0brmeSe-6" value="6" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;fontColor=#3D8BCD;whiteSpace=wrap;" vertex="1" parent="th87YpJo-jOqk0brmeSe-0">
+        <mxCell id="th87YpJo-jOqk0brmeSe-6" value="6" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;fontColor=#3D8BCD;whiteSpace=wrap;" parent="th87YpJo-jOqk0brmeSe-0" vertex="1">
           <mxGeometry x="180" width="30" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="th87YpJo-jOqk0brmeSe-7" value="7" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;fontColor=#3D8BCD;whiteSpace=wrap;" vertex="1" parent="th87YpJo-jOqk0brmeSe-0">
+        <mxCell id="th87YpJo-jOqk0brmeSe-7" value="7" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;fontColor=#3D8BCD;whiteSpace=wrap;" parent="th87YpJo-jOqk0brmeSe-0" vertex="1">
           <mxGeometry x="210" width="30" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="th87YpJo-jOqk0brmeSe-8" value="8" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;fontColor=#3D8BCD;whiteSpace=wrap;" vertex="1" parent="th87YpJo-jOqk0brmeSe-0">
+        <mxCell id="th87YpJo-jOqk0brmeSe-8" value="8" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;fontColor=#3D8BCD;whiteSpace=wrap;" parent="th87YpJo-jOqk0brmeSe-0" vertex="1">
           <mxGeometry x="240" width="30" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="th87YpJo-jOqk0brmeSe-9" value="9" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;fontColor=#3D8BCD;whiteSpace=wrap;" vertex="1" parent="th87YpJo-jOqk0brmeSe-0">
+        <mxCell id="th87YpJo-jOqk0brmeSe-9" value="9" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;perimeter=none;fontColor=#3D8BCD;whiteSpace=wrap;" parent="th87YpJo-jOqk0brmeSe-0" vertex="1">
           <mxGeometry x="270" width="30" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="th87YpJo-jOqk0brmeSe-10" value="&gt;&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;fontColor=#3D8BCD;whiteSpace=wrap;" vertex="1" parent="th87YpJo-jOqk0brmeSe-0">
+        <mxCell id="th87YpJo-jOqk0brmeSe-10" value="&gt;&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;fontColor=#3D8BCD;whiteSpace=wrap;" parent="th87YpJo-jOqk0brmeSe-0" vertex="1">
           <mxGeometry x="300" width="30" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="th87YpJo-jOqk0brmeSe-11" value="2" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#3D8BCD;fillColor=#3D8BCD;perimeter=none;fontColor=#ffffff;whiteSpace=wrap;" vertex="1" parent="th87YpJo-jOqk0brmeSe-0">
+        <mxCell id="th87YpJo-jOqk0brmeSe-11" value="2" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#3D8BCD;fillColor=#3D8BCD;perimeter=none;fontColor=#ffffff;whiteSpace=wrap;" parent="th87YpJo-jOqk0brmeSe-0" vertex="1">
           <mxGeometry x="60" width="30" height="30" as="geometry"/>
         </mxCell>
       </root>
