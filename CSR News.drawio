@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-31T02:19:02.028Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="3Lwta7dkQz-e7x5QCMU1" version="12.1.8" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-10-31T07:28:55.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="HapzMIvTlONxKvvs0VjT" version="12.1.8" type="github" pages="3">
   <diagram id="KCnl8cFiq7WRn9clfYzs" name="01.基本資料維護">
-    <mxGraphModel dx="1250" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1279" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="f2lGBbLvKYWpE5eic5qc-0"/>
         <mxCell id="f2lGBbLvKYWpE5eic5qc-1" parent="f2lGBbLvKYWpE5eic5qc-0"/>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-152" value="Category 維護" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=14;fontStyle=1;align=left;spacingLeft=10;whiteSpace=wrap;resizeWidth=1;" parent="nWNXTQvVtf0AxR-hwRjM-151" vertex="1">
           <mxGeometry width="925" height="30" relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="AHunMpGS-YjhW0qMbPWL-15" value="&lt;span style=&quot;font-size: 11pt&quot;&gt;氣候變遷&lt;/span&gt;&lt;span style=&quot;font-size: 11pt&quot;&gt;；&lt;/span&gt;&lt;span style=&quot;font-size: 11pt&quot;&gt;調適&lt;/span&gt;&lt;span style=&quot;font-size: 11pt&quot;&gt;；&lt;/span&gt;&lt;span style=&quot;font-size: 11pt&quot;&gt;韌性&lt;/span&gt;&lt;span style=&quot;font-size: 11pt&quot;&gt;；&lt;/span&gt;&lt;span style=&quot;font-size: 11pt&quot;&gt;減緩&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;align=left;fontSize=16;spacingLeft=10;whiteSpace=wrap;" vertex="1" parent="nWNXTQvVtf0AxR-hwRjM-151">
+          <mxGeometry x="101" y="190" width="657" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-81" value="Panel content" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=#3D8BCD;fillColor=#ffffff;fontColor=#f0f0f0;spacingTop=30;whiteSpace=wrap;fontSize=19;" parent="f2lGBbLvKYWpE5eic5qc-1" vertex="1">
           <mxGeometry x="83" y="141" width="915" height="610" as="geometry"/>
@@ -316,8 +319,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-89" value="第四層分類" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#3D8BCD;fillColor=#3D8BCD;fontSize=14;fontStyle=1;align=center;whiteSpace=wrap;resizeHeight=1;fontColor=#FFFFFF;" parent="nWNXTQvVtf0AxR-hwRjM-85" vertex="1">
-          <mxGeometry width="310" height="40" relative="1" as="geometry">
-            <mxPoint x="380" as="offset"/>
+          <mxGeometry width="170" height="40" relative="1" as="geometry">
+            <mxPoint x="520" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-90" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#3D8BCD;fillColor=#3D8BCD;fontSize=14;fontStyle=1;align=left;whiteSpace=wrap;resizeHeight=1;fontColor=#FFFFFF;" parent="nWNXTQvVtf0AxR-hwRjM-85" vertex="1">
@@ -328,6 +331,11 @@
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-91" value="建立人員" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#3D8BCD;fillColor=#3D8BCD;fontSize=14;fontStyle=1;align=left;whiteSpace=wrap;resizeHeight=1;fontColor=#FFFFFF;" parent="nWNXTQvVtf0AxR-hwRjM-85" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="649" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHunMpGS-YjhW0qMbPWL-0" value="第三層分類" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#3D8BCD;fillColor=#3D8BCD;fontSize=14;fontStyle=1;align=center;whiteSpace=wrap;resizeHeight=1;fontColor=#FFFFFF;" vertex="1" parent="nWNXTQvVtf0AxR-hwRjM-85">
+          <mxGeometry width="170" height="40" relative="1" as="geometry">
+            <mxPoint x="366.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-92" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;whiteSpace=wrap;resizeWidth=1;" parent="f2lGBbLvKYWpE5eic5qc-1" vertex="1">
@@ -378,6 +386,11 @@
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-102" value="Edit" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#58B957;align=center;strokeColor=#58B957;fontColor=#ffffff;fontSize=14;whiteSpace=wrap;" parent="nWNXTQvVtf0AxR-hwRjM-92" vertex="1">
           <mxGeometry x="723" y="5" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="AHunMpGS-YjhW0qMbPWL-16" value="第四層分類" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="nWNXTQvVtf0AxR-hwRjM-92">
+          <mxGeometry width="150" height="40" relative="1" as="geometry">
+            <mxPoint x="11" y="-153.5" as="offset"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-103" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;whiteSpace=wrap;resizeWidth=1;" parent="f2lGBbLvKYWpE5eic5qc-1" vertex="1">
           <mxGeometry x="103.5" y="1103.5" width="860" height="40" as="geometry">
@@ -891,7 +904,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g2j36lPshuta8L843yOW" name="02.文章分類">
-    <mxGraphModel dx="1505" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1505" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
