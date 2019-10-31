@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-31T07:30:06.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="ONlgRs46OG4BPRKasVK4" version="12.1.8" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-10-31T07:32:13.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="Q7Q9ASmNGXmWdIUnIDrm" version="12.1.8" type="github" pages="3">
   <diagram id="KCnl8cFiq7WRn9clfYzs" name="01.基本資料維護">
     <mxGraphModel dx="2132" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -307,9 +307,6 @@
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-76" value="Edit" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#58B957;align=center;strokeColor=#58B957;fontColor=#ffffff;fontSize=14;whiteSpace=wrap;" parent="nWNXTQvVtf0AxR-hwRjM-60" vertex="1">
           <mxGeometry x="725" y="7" width="60" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="AHunMpGS-YjhW0qMbPWL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f2lGBbLvKYWpE5eic5qc-1" source="nWNXTQvVtf0AxR-hwRjM-90" target="41OlZvfxgul9x5k7d9KS-0">
-          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-85" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#6c8ebf;fillColor=#00994D;fillOpacity=3;whiteSpace=wrap;resizeWidth=1;fontColor=#FFFFFF;" parent="f2lGBbLvKYWpE5eic5qc-1" vertex="1">
           <mxGeometry x="103.5" y="1055.5" width="860" height="50" as="geometry">
