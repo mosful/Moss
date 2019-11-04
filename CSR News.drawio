@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-04T03:06:45.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="kAXG_x6xakj-pf8K05Xg" version="12.1.8" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-04T03:08:16.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="0l9E6n30NEGTVVwYjIyD" version="12.1.8" type="github" pages="3">
   <diagram id="KCnl8cFiq7WRn9clfYzs" name="01.基本資料維護">
     <mxGraphModel dx="1476" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1062,6 +1062,11 @@
             <mxPoint x="670" y="40.5" as="offset"/>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ptxoebv77PRQaYh7Ka5P-23" value="待處理" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="V9TRnXoOqbhezM_kPiNG-36">
+          <mxGeometry width="80" height="40" relative="1" as="geometry">
+            <mxPoint x="670" y="0.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="V9TRnXoOqbhezM_kPiNG-43" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;whiteSpace=wrap;resizeWidth=1;" parent="1" vertex="1">
           <mxGeometry width="860" height="40" relative="1" as="geometry">
             <mxPoint x="100" y="629.5" as="offset"/>
@@ -1095,6 +1100,11 @@
             <mxPoint x="570" y="0.5" as="offset"/>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ptxoebv77PRQaYh7Ka5P-26" value="待處理" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="V9TRnXoOqbhezM_kPiNG-43">
+          <mxGeometry width="80" height="40" relative="1" as="geometry">
+            <mxPoint x="670" y="0.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="V9TRnXoOqbhezM_kPiNG-152" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;whiteSpace=wrap;resizeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="549.4999999999999" width="860" height="40" as="geometry">
             <mxPoint x="101" y="472" as="offset"/>
@@ -1126,6 +1136,11 @@
         <mxCell id="LEWghaiAQz3cji2lI0Cb-10" value="2019-09-02" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="V9TRnXoOqbhezM_kPiNG-152" vertex="1">
           <mxGeometry width="80" height="40" relative="1" as="geometry">
             <mxPoint x="570" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ptxoebv77PRQaYh7Ka5P-24" value="待處理" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="V9TRnXoOqbhezM_kPiNG-152">
+          <mxGeometry width="80" height="40" relative="1" as="geometry">
+            <mxPoint x="670" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="V9TRnXoOqbhezM_kPiNG-173" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;fillColor=#ffffff;strokeColor=#dddddd;whiteSpace=wrap;fontSize=14;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
@@ -1972,6 +1987,11 @@
         <mxCell id="LEWghaiAQz3cji2lI0Cb-11" value="2019-09-02" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="V9TRnXoOqbhezM_kPiNG-87" vertex="1">
           <mxGeometry width="80" height="40" relative="1" as="geometry">
             <mxPoint x="570" y="0.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ptxoebv77PRQaYh7Ka5P-25" value="待處理" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="V9TRnXoOqbhezM_kPiNG-87">
+          <mxGeometry width="80" height="40" relative="1" as="geometry">
+            <mxPoint x="670" y="0.5" as="offset"/>
           </mxGeometry>
         </mxCell>
       </root>
