@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-04T02:51:23.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="fWdN3s_NP8MZJVqQ13pD" version="12.1.8" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-04T02:52:03.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="vKoJ1Q3jTKEEWImfyj8L" version="12.1.8" type="github" pages="3">
   <diagram id="KCnl8cFiq7WRn9clfYzs" name="01.基本資料維護">
-    <mxGraphModel dx="1554" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1476" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="f2lGBbLvKYWpE5eic5qc-0"/>
         <mxCell id="f2lGBbLvKYWpE5eic5qc-1" parent="f2lGBbLvKYWpE5eic5qc-0"/>
@@ -360,7 +360,7 @@
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-89" value="第四層分類" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#3D8BCD;fillColor=#3D8BCD;fontSize=14;fontStyle=1;align=center;whiteSpace=wrap;resizeHeight=1;fontColor=#FFFFFF;" parent="nWNXTQvVtf0AxR-hwRjM-85" vertex="1">
           <mxGeometry width="170" height="40" relative="1" as="geometry">
-            <mxPoint x="520" as="offset"/>
+            <mxPoint x="503" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-90" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#3D8BCD;fillColor=#3D8BCD;fontSize=14;fontStyle=1;align=left;whiteSpace=wrap;resizeHeight=1;fontColor=#FFFFFF;" parent="nWNXTQvVtf0AxR-hwRjM-85" vertex="1">
