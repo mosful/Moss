@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-04T05:20:11.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="7UMxdeGguWMr8l98bS5X" version="12.1.8" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-07T07:03:40.799Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="XL-k5fPaQii038TKPKQ-" version="12.1.8" type="github" pages="3">
   <diagram id="KCnl8cFiq7WRn9clfYzs" name="01.基本資料維護">
-    <mxGraphModel dx="1088" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="f2lGBbLvKYWpE5eic5qc-0"/>
         <mxCell id="f2lGBbLvKYWpE5eic5qc-1" parent="f2lGBbLvKYWpE5eic5qc-0"/>
@@ -519,11 +519,6 @@
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-118" value="Edit" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#58B957;align=center;strokeColor=#58B957;fontColor=#ffffff;fontSize=14;whiteSpace=wrap;" parent="nWNXTQvVtf0AxR-hwRjM-111" vertex="1">
           <mxGeometry x="724" y="5" width="60" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="O-tNG5V9hJoaerNQxoad-1" value="&lt;span style=&quot;font-size: 16px&quot;&gt;新技術&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="nWNXTQvVtf0AxR-hwRjM-111">
-          <mxGeometry width="100" height="40" relative="1" as="geometry">
-            <mxPoint x="546.5" as="offset"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-119" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;whiteSpace=wrap;resizeWidth=1;" parent="f2lGBbLvKYWpE5eic5qc-1" vertex="1">
           <mxGeometry x="103.5" y="1204.5" width="860" height="40" as="geometry">
             <mxPoint x="101" y="472" as="offset"/>
@@ -636,21 +631,6 @@
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-150" value="Edit" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#58B957;align=center;strokeColor=#58B957;fontColor=#ffffff;fontSize=14;whiteSpace=wrap;" parent="nWNXTQvVtf0AxR-hwRjM-143" vertex="1">
           <mxGeometry x="724" y="7" width="60" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="O-tNG5V9hJoaerNQxoad-0" value="&lt;span style=&quot;font-size: 16px&quot;&gt;智慧領域&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="nWNXTQvVtf0AxR-hwRjM-143">
-          <mxGeometry width="100" height="40" relative="1" as="geometry">
-            <mxPoint x="417.5" y="40" as="offset"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="O-tNG5V9hJoaerNQxoad-2" value="&lt;span style=&quot;font-size: 16px&quot;&gt;智慧領域&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="nWNXTQvVtf0AxR-hwRjM-143">
-          <mxGeometry width="100" height="40" relative="1" as="geometry">
-            <mxPoint x="416.5" y="-3" as="offset"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="O-tNG5V9hJoaerNQxoad-3" value="&lt;span style=&quot;font-size: 16px&quot;&gt;產品趨勢&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="nWNXTQvVtf0AxR-hwRjM-143">
-          <mxGeometry width="100" height="40" relative="1" as="geometry">
-            <mxPoint x="546.5" y="-3" as="offset"/>
-          </mxGeometry>
         </mxCell>
         <mxCell id="41OlZvfxgul9x5k7d9KS-0" value="Panel content" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=#3D8BCD;fillColor=#ffffff;fontColor=#f0f0f0;spacingTop=30;whiteSpace=wrap;fontSize=19;" parent="f2lGBbLvKYWpE5eic5qc-1" vertex="1">
           <mxGeometry x="95" y="1450" width="915" height="610" as="geometry"/>
@@ -1007,7 +987,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g2j36lPshuta8L843yOW" name="02.文章分類">
-    <mxGraphModel dx="1088" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1328" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
