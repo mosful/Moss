@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T01:49:57.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="Xv6jhyXL9Ksw0nFAT7_p" version="12.2.6" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-19T01:50:06.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="UHmlmQTtSnYMXcEKchkV" version="12.2.6" type="github" pages="3">
   <diagram id="KCnl8cFiq7WRn9clfYzs" name="01.基本資料維護">
     <mxGraphModel dx="1231" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -2057,7 +2057,7 @@
             <mxPoint x="544" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSTjJpsPTdA0JXhXpzDs-96" value="CSR組織群" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="BSTjJpsPTdA0JXhXpzDs-13" vertex="1">
+        <mxCell id="BSTjJpsPTdA0JXhXpzDs-96" value="&lt;font color=&quot;#ff0000&quot;&gt;CSR組織群&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="BSTjJpsPTdA0JXhXpzDs-13" vertex="1">
           <mxGeometry width="80" height="40" relative="1" as="geometry">
             <mxPoint x="780" as="offset"/>
           </mxGeometry>
