@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T01:21:05.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="Gr22bicbVnmrY0z-iUYX" version="12.2.6" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-19T01:24:54.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="DbdYoFwem28lYFge_V5n" version="12.2.6" type="github" pages="3">
   <diagram id="KCnl8cFiq7WRn9clfYzs" name="01.基本資料維護">
     <mxGraphModel dx="1286" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -389,12 +389,12 @@
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-88" value="第二層分類" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#3D8BCD;fillColor=#3D8BCD;fontSize=14;fontStyle=1;align=center;whiteSpace=wrap;resizeHeight=1;fontColor=#FFFFFF;" parent="nWNXTQvVtf0AxR-hwRjM-85" vertex="1">
           <mxGeometry width="220" height="40" relative="1" as="geometry">
-            <mxPoint x="169" y="0.5" as="offset"/>
+            <mxPoint x="156.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-89" value="第四層分類" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#3D8BCD;fillColor=#3D8BCD;fontSize=14;fontStyle=1;align=center;whiteSpace=wrap;resizeHeight=1;fontColor=#FFFFFF;" parent="nWNXTQvVtf0AxR-hwRjM-85" vertex="1">
-          <mxGeometry width="170" height="40" relative="1" as="geometry">
-            <mxPoint x="503" as="offset"/>
+          <mxGeometry width="100" height="40" relative="1" as="geometry">
+            <mxPoint x="446.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-90" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#3D8BCD;fillColor=#3D8BCD;fontSize=14;fontStyle=1;align=left;whiteSpace=wrap;resizeHeight=1;fontColor=#FFFFFF;" parent="nWNXTQvVtf0AxR-hwRjM-85" vertex="1">
@@ -402,14 +402,19 @@
             <mxPoint x="799" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nWNXTQvVtf0AxR-hwRjM-91" value="建立人員" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#3D8BCD;fillColor=#3D8BCD;fontSize=14;fontStyle=1;align=left;whiteSpace=wrap;resizeHeight=1;fontColor=#FFFFFF;" parent="nWNXTQvVtf0AxR-hwRjM-85" vertex="1">
+        <mxCell id="nWNXTQvVtf0AxR-hwRjM-91" value="&amp;nbsp;建立人員" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#3D8BCD;fillColor=#3D8BCD;fontSize=14;fontStyle=1;align=left;whiteSpace=wrap;resizeHeight=1;fontColor=#FFFFFF;" parent="nWNXTQvVtf0AxR-hwRjM-85" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
-            <mxPoint x="649" as="offset"/>
+            <mxPoint x="660" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="AHunMpGS-YjhW0qMbPWL-0" value="第三層分類" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#3D8BCD;fillColor=#3D8BCD;fontSize=14;fontStyle=1;align=center;whiteSpace=wrap;resizeHeight=1;fontColor=#FFFFFF;" parent="nWNXTQvVtf0AxR-hwRjM-85" vertex="1">
-          <mxGeometry width="170" height="40" relative="1" as="geometry">
+          <mxGeometry width="80" height="40" relative="1" as="geometry">
             <mxPoint x="366.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P68TKLPB8gKUQmwu6qwv-0" value="指定閱讀" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=#3D8BCD;fillColor=#3D8BCD;fontSize=14;fontStyle=1;align=center;whiteSpace=wrap;resizeHeight=1;fontColor=#FFFFFF;" vertex="1" parent="nWNXTQvVtf0AxR-hwRjM-85">
+          <mxGeometry width="120" height="40" relative="1" as="geometry">
+            <mxPoint x="546.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-92" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;whiteSpace=wrap;resizeWidth=1;" parent="f2lGBbLvKYWpE5eic5qc-1" vertex="1">
@@ -432,12 +437,12 @@
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-96" value="&lt;div style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; direction: ltr ; unicode-bidi: embed ; vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;氣候議題&lt;/span&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="nWNXTQvVtf0AxR-hwRjM-92" vertex="1">
           <mxGeometry width="90" height="40" relative="1" as="geometry">
-            <mxPoint x="418" as="offset"/>
+            <mxPoint x="366.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-97" value="林建良" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="nWNXTQvVtf0AxR-hwRjM-92" vertex="1">
           <mxGeometry width="70" height="40" relative="1" as="geometry">
-            <mxPoint x="659" y="-1.5" as="offset"/>
+            <mxPoint x="666.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-101" value="Delete" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#DB524C;align=center;strokeColor=#DB524C;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;" parent="nWNXTQvVtf0AxR-hwRjM-92" vertex="1">
@@ -448,7 +453,12 @@
         </mxCell>
         <mxCell id="O_PJ_J23zfkBGjA2Ht9i-16" value="&lt;div style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; direction: ltr ; unicode-bidi: embed ; vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;氣候變遷&lt;/span&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="nWNXTQvVtf0AxR-hwRjM-92" vertex="1">
           <mxGeometry width="90" height="40" relative="1" as="geometry">
-            <mxPoint x="546.5" as="offset"/>
+            <mxPoint x="460.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P68TKLPB8gKUQmwu6qwv-1" value="&lt;div style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; direction: ltr ; unicode-bidi: embed ; vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;氣候變遷&lt;/span&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="nWNXTQvVtf0AxR-hwRjM-92">
+          <mxGeometry width="90" height="40" relative="1" as="geometry">
+            <mxPoint x="566.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-103" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;whiteSpace=wrap;resizeWidth=1;" parent="f2lGBbLvKYWpE5eic5qc-1" vertex="1">
@@ -471,12 +481,12 @@
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-107" value="&lt;span style=&quot;font-size: 16px&quot;&gt;氣候議題&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="nWNXTQvVtf0AxR-hwRjM-103" vertex="1">
           <mxGeometry width="80" height="40" relative="1" as="geometry">
-            <mxPoint x="416.5" y="5" as="offset"/>
+            <mxPoint x="366.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-108" value="林建良" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="nWNXTQvVtf0AxR-hwRjM-103" vertex="1">
           <mxGeometry width="70" height="40" relative="1" as="geometry">
-            <mxPoint x="659" as="offset"/>
+            <mxPoint x="666.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-109" value="Delete" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#DB524C;align=center;strokeColor=#DB524C;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;" parent="nWNXTQvVtf0AxR-hwRjM-103" vertex="1">
@@ -487,7 +497,7 @@
         </mxCell>
         <mxCell id="m8MT3zgE-uhrgeeuw5Yg-0" value="&lt;span style=&quot;font-size: 16px&quot;&gt;調適&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="nWNXTQvVtf0AxR-hwRjM-103" vertex="1">
           <mxGeometry width="80" height="40" relative="1" as="geometry">
-            <mxPoint x="546.5" y="5" as="offset"/>
+            <mxPoint x="462.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-111" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;whiteSpace=wrap;resizeWidth=1;" parent="f2lGBbLvKYWpE5eic5qc-1" vertex="1">
@@ -510,7 +520,7 @@
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-116" value="林建良" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="nWNXTQvVtf0AxR-hwRjM-111" vertex="1">
           <mxGeometry width="70" height="40" relative="1" as="geometry">
-            <mxPoint x="659" as="offset"/>
+            <mxPoint x="666.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-117" value="Delete" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#DB524C;align=center;strokeColor=#DB524C;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;" parent="nWNXTQvVtf0AxR-hwRjM-111" vertex="1">
@@ -539,12 +549,12 @@
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-123" value="&lt;span style=&quot;font-size: 16px&quot;&gt;氣候議題&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="nWNXTQvVtf0AxR-hwRjM-119" vertex="1">
           <mxGeometry width="100" height="40" relative="1" as="geometry">
-            <mxPoint x="416.5" as="offset"/>
+            <mxPoint x="366.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-124" value="林建良" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="nWNXTQvVtf0AxR-hwRjM-119" vertex="1">
           <mxGeometry width="70" height="40" relative="1" as="geometry">
-            <mxPoint x="659" as="offset"/>
+            <mxPoint x="666.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-125" value="Delete" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#DB524C;align=center;strokeColor=#DB524C;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;" parent="nWNXTQvVtf0AxR-hwRjM-119" vertex="1">
@@ -555,7 +565,7 @@
         </mxCell>
         <mxCell id="m8MT3zgE-uhrgeeuw5Yg-1" value="&lt;span style=&quot;font-size: 16px&quot;&gt;韌性&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="nWNXTQvVtf0AxR-hwRjM-119" vertex="1">
           <mxGeometry width="100" height="40" relative="1" as="geometry">
-            <mxPoint x="546.5" as="offset"/>
+            <mxPoint x="462.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-127" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;fillColor=#ffffff;strokeColor=#dddddd;whiteSpace=wrap;fontSize=14;fontColor=#FFFFFF;align=left;" parent="f2lGBbLvKYWpE5eic5qc-1" vertex="1">
@@ -623,7 +633,7 @@
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-148" value="林建良" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="nWNXTQvVtf0AxR-hwRjM-143" vertex="1">
           <mxGeometry width="70" height="40" relative="1" as="geometry">
-            <mxPoint x="659" as="offset"/>
+            <mxPoint x="666.5" y="-3" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nWNXTQvVtf0AxR-hwRjM-149" value="Delete" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#DB524C;align=center;strokeColor=#DB524C;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;" parent="nWNXTQvVtf0AxR-hwRjM-143" vertex="1">
