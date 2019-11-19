@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T01:34:34.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="Be8T2VtyNdkonqL8lmHR" version="12.2.6" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-19T01:36:27.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="9N5Nj1o9NZhtkUQVoPVV" version="12.2.6" type="github" pages="3">
   <diagram id="KCnl8cFiq7WRn9clfYzs" name="01.基本資料維護">
     <mxGraphModel dx="1513" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1100,11 +1100,11 @@
             <mxPoint x="-20" y="-2.5" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P68TKLPB8gKUQmwu6qwv-31" value="entries" style="text;html=1;fontSize=16;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-28">
-          <mxGeometry x="130.5" y="5" width="60" height="30" as="geometry"/>
-        </mxCell>
         <mxCell id="P68TKLPB8gKUQmwu6qwv-32" value="Show" style="text;html=1;fontSize=16;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-28">
           <mxGeometry y="5" width="54" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="P68TKLPB8gKUQmwu6qwv-31" value="entries" style="text;html=1;fontSize=16;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-28">
+          <mxGeometry x="130.5" y="5" width="60" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="P68TKLPB8gKUQmwu6qwv-122" value="Dept." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-4">
           <mxGeometry width="90" height="40" relative="1" as="geometry">
@@ -1119,6 +1119,19 @@
         <mxCell id="P68TKLPB8gKUQmwu6qwv-124" value="對象類型" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-4">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="189.5" y="-213" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P68TKLPB8gKUQmwu6qwv-126" value="對象類型" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-4">
+          <mxGeometry width="60" height="40" relative="1" as="geometry">
+            <mxPoint x="242" y="-195.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P68TKLPB8gKUQmwu6qwv-127" value="Employee" style="text;html=1;fontSize=16;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-4">
+          <mxGeometry x="217.5" y="127.5" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="P68TKLPB8gKUQmwu6qwv-125" value="" style="shape=ellipse;strokeColor=#666666;html=1;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-4">
+          <mxGeometry x="187.5" y="132.5" width="20" height="20" as="geometry">
+            <mxPoint x="700" y="-10" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="P68TKLPB8gKUQmwu6qwv-33" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;whiteSpace=wrap;resizeWidth=1;" vertex="1" parent="f2lGBbLvKYWpE5eic5qc-1">
@@ -1155,7 +1168,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P68TKLPB8gKUQmwu6qwv-40" value="對象類型" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-33">
-          <mxGeometry width="150" height="40" relative="1" as="geometry">
+          <mxGeometry width="60" height="40" relative="1" as="geometry">
             <mxPoint y="-213.5" as="offset"/>
           </mxGeometry>
         </mxCell>
@@ -1186,7 +1199,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P68TKLPB8gKUQmwu6qwv-119" value="Dept." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-33">
-          <mxGeometry width="90" height="40" relative="1" as="geometry">
+          <mxGeometry width="50" height="40" relative="1" as="geometry">
             <mxPoint x="102" y="-213" as="offset"/>
           </mxGeometry>
         </mxCell>
