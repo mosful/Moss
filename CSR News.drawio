@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T01:47:15.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="_qtyG86sQnNIHnP3wSnl" version="12.2.6" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-19T01:48:46.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="tLbGhcdWsN9y7Sd0vH_u" version="12.2.6" type="github" pages="3">
   <diagram id="KCnl8cFiq7WRn9clfYzs" name="01.基本資料維護">
     <mxGraphModel dx="1231" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1260,9 +1260,9 @@
             <mxPoint x="152" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P68TKLPB8gKUQmwu6qwv-59" value="優質教育" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-55">
-          <mxGeometry width="150" height="40" relative="1" as="geometry">
-            <mxPoint x="325.5" as="offset"/>
+        <mxCell id="P68TKLPB8gKUQmwu6qwv-59" value="9909235 - 陳建斌" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-55">
+          <mxGeometry width="230" height="40" relative="1" as="geometry">
+            <mxPoint x="245.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="P68TKLPB8gKUQmwu6qwv-60" value="林建良" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-55">
@@ -1299,7 +1299,7 @@
             <mxPoint x="152" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P68TKLPB8gKUQmwu6qwv-68" value="1552090 - 林建良" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-64">
+        <mxCell id="P68TKLPB8gKUQmwu6qwv-68" value="9901220 - 謝忠賢" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-64">
           <mxGeometry width="230" height="40" relative="1" as="geometry">
             <mxPoint x="245" as="offset"/>
           </mxGeometry>
