@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T01:16:49.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="rNxa2I5OlLlQ82wZqEiU" version="12.2.6" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-19T01:18:34.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="M6HUO66u7MxVXRrgI8W6" version="12.2.6" type="github" pages="3">
   <diagram id="KCnl8cFiq7WRn9clfYzs" name="01.基本資料維護">
     <mxGraphModel dx="1286" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1349,6 +1349,11 @@
             <mxPoint x="544" as="offset"/>
           </mxGeometry>
         </mxCell>
+        <mxCell id="rJE3lbo1m-1AFZRsZdii-8" value="環境保護" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="LEWghaiAQz3cji2lI0Cb-26">
+          <mxGeometry width="60" height="40" relative="1" as="geometry">
+            <mxPoint x="624.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LEWghaiAQz3cji2lI0Cb-34" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;whiteSpace=wrap;resizeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="115.5" y="1206.5" width="860" height="40" as="geometry">
             <mxPoint x="98.5" y="319.5" as="offset"/>
@@ -1385,6 +1390,11 @@
         <mxCell id="LEWghaiAQz3cji2lI0Cb-80" value="綠能" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="LEWghaiAQz3cji2lI0Cb-34" vertex="1">
           <mxGeometry width="150" height="40" relative="1" as="geometry">
             <mxPoint x="729.5" y="1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJE3lbo1m-1AFZRsZdii-9" value="環境保護" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="LEWghaiAQz3cji2lI0Cb-34">
+          <mxGeometry width="60" height="40" relative="1" as="geometry">
+            <mxPoint x="624.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="LEWghaiAQz3cji2lI0Cb-41" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;whiteSpace=wrap;resizeWidth=1;" parent="1" vertex="1">
@@ -1425,6 +1435,11 @@
             <mxPoint x="544" y="0.5" as="offset"/>
           </mxGeometry>
         </mxCell>
+        <mxCell id="rJE3lbo1m-1AFZRsZdii-12" value="環境保護" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="LEWghaiAQz3cji2lI0Cb-41">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="624.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LEWghaiAQz3cji2lI0Cb-48" value="" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;whiteSpace=wrap;resizeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="115.5" y="1246.5" width="860" height="40" as="geometry">
             <mxPoint x="101" y="472" as="offset"/>
@@ -1461,6 +1476,11 @@
         <mxCell id="LEWghaiAQz3cji2lI0Cb-81" value="永續" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="LEWghaiAQz3cji2lI0Cb-48" vertex="1">
           <mxGeometry width="60" height="40" relative="1" as="geometry">
             <mxPoint x="544" y="-1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJE3lbo1m-1AFZRsZdii-10" value="環境保護" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="LEWghaiAQz3cji2lI0Cb-48">
+          <mxGeometry width="60" height="40" relative="1" as="geometry">
+            <mxPoint x="624.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="LEWghaiAQz3cji2lI0Cb-55" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;fillColor=#ffffff;strokeColor=#dddddd;whiteSpace=wrap;fontSize=14;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
@@ -1535,6 +1555,11 @@
         <mxCell id="LEWghaiAQz3cji2lI0Cb-82" value="永續;環境" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" parent="LEWghaiAQz3cji2lI0Cb-67" vertex="1">
           <mxGeometry width="70" height="40" relative="1" as="geometry">
             <mxPoint x="544" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJE3lbo1m-1AFZRsZdii-11" value="環境保護" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="LEWghaiAQz3cji2lI0Cb-67">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="624.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="LEWghaiAQz3cji2lI0Cb-74" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;fillColor=#ffffff;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
