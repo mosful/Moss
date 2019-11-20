@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T01:50:15.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="GARzJbKCSrS--yMInmH-" version="12.2.6" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-20T05:31:28.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36" etag="wSrMbSM96qxqVck2Dofq" version="12.2.6" type="github" pages="3">
   <diagram id="KCnl8cFiq7WRn9clfYzs" name="01.基本資料維護">
     <mxGraphModel dx="1231" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1105,26 +1105,6 @@
         </mxCell>
         <mxCell id="P68TKLPB8gKUQmwu6qwv-31" value="entries" style="text;html=1;fontSize=16;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-28">
           <mxGeometry x="130.5" y="5" width="60" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="P68TKLPB8gKUQmwu6qwv-122" value="Dept." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-4">
-          <mxGeometry width="90" height="40" relative="1" as="geometry">
-            <mxPoint x="232" y="-213" as="offset"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P68TKLPB8gKUQmwu6qwv-123" value="Dept." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-4">
-          <mxGeometry width="90" height="40" relative="1" as="geometry">
-            <mxPoint x="252" y="-213" as="offset"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P68TKLPB8gKUQmwu6qwv-124" value="對象類型" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-4">
-          <mxGeometry width="150" height="40" relative="1" as="geometry">
-            <mxPoint x="189.5" y="-213" as="offset"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P68TKLPB8gKUQmwu6qwv-126" value="對象類型" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontSize=14;align=left;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-4">
-          <mxGeometry width="60" height="40" relative="1" as="geometry">
-            <mxPoint x="242" y="-195.5" as="offset"/>
-          </mxGeometry>
         </mxCell>
         <mxCell id="P68TKLPB8gKUQmwu6qwv-127" value="Employee" style="text;html=1;fontSize=16;" vertex="1" parent="P68TKLPB8gKUQmwu6qwv-4">
           <mxGeometry x="217.5" y="127.5" width="60" height="30" as="geometry"/>
